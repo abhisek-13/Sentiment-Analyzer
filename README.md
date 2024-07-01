@@ -33,14 +33,14 @@ The Sentiment Analysis Model is a machine learning project that uses TensorFlow 
 ## Usage
 1. Open the Jupyter Notebook:
     ```bash
-    jupyter notebook sentiment_analysis.ipynb
+    jupyter notebook Twitter_twits_Sentiment_Analysis_using_DistilBERT_Transformer.ipynb
     ```
 2. Follow the steps in the notebook to preprocess the data and train the model.
 3. Fine-tune the model with your dataset by replacing the Twitter tweets data with other sentiment data.
 4. Use the trained model to make sentiment predictions.
 
 ## Project Structure
-- `sentiment_analysis.ipynb`: Jupyter Notebook containing the code for data preprocessing, model training, and prediction.
+- `Twitter_twits_Sentiment_Analysis_using_DistilBERT_Transformer.ipynb`: Jupyter Notebook containing the code for data preprocessing, model training, and prediction.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
